@@ -52,7 +52,7 @@
 ## Links
 
 - [GitHub Repository](https://github.com/Deebo18/M11-Note-Taker-DPB)
-- [Deployed Application](https://shielded-tundra-01780.herokuapp.com)
+- [Deployed Application](https://mighty-plains-57290.herokuapp.com)
 
 ---
 
